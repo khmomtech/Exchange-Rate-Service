@@ -6,6 +6,12 @@ Exchange Rate Service is a .NET Core Windows service application that periodical
 
 The Exchange Rate Service uses the `HttpClient` class to make a request to the API and fetch the latest exchange rates. The response is then deserialized into a custom `ExchangeRate` class using JSON serialization. The application runs as a background service, continuously fetching the rates and displaying them as notifications.
 
+## Screen Recording
+
+
+https://github.com/n1nni/Exchange-Rate-Service/assets/98234436/f570a57a-8b4f-41c2-9ac1-138cbd59caf7
+
+
 ## Installation and Usage
 
 ### Prerequisites
