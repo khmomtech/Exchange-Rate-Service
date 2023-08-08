@@ -52,7 +52,7 @@ The notification popup window is created using a custom `ExchangeRatesForm` clas
 This application is provided as-is and may be subject to rate limits or other restrictions imposed by the API. Ensure compliance with the API's terms of service and usage limitations.
 
 ## Support, Contact and Author
-This "Exchange Rate Service" was created by [n1nni](https://github.com/n1nni). If you have any suggestions, feedback, issues or inquiries related to the app, please feel free to reach me out.
+This "Exchange Rate Service" was created by [n1nni](https://github.com/n1nni). If you have any suggestions, feedback, issues or inquiries related to the app, please feel free to reach out to me.
 
 Contact Information:
 
